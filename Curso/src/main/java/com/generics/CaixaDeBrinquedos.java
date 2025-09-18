@@ -7,6 +7,15 @@ public class CaixaDeBrinquedos {
         this.coisaNaCaixa = coisa;
     }
 
+    public Object pegar() {
+        return coisaNaCaixa;
+    }
+
+    public static void main(String[] args){
+
+        
+    }
+
     
 
 }
