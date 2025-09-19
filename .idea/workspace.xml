@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/CauculadoraAreaRetangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaDeBrinquedos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaDeBrinquedos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/exercicios/ControleDeEstoqueEmUmaPadaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/ControleDeEstoqueEmUmaPadaria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/target/classes/com/generics/Caixa.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/com/generics/Caixa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ControleDeEstoqueEmUmaPadaria.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
