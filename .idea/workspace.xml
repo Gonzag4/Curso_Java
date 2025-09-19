@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/CauculadoraAreaRetangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/exercicios/ControleDeEstoqueEmUmaPadaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/ControleDeEstoqueEmUmaPadaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/com/generics/Caixa.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/com/generics/Caixa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/exercicios/PromocaoAutomatica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/PromocaoAutomatica.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CauculadoraAreaRetangulo.executor": "Run",
     "Application.ControleDeEstoqueEmUmaPadaria.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
