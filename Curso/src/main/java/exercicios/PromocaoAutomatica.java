@@ -27,6 +27,10 @@ public class PromocaoAutomatica {
     }
 }
 
-
-    }
-}
+/*
+Explicação do Código:
+1. Criamos uma classe chamada PromocaoAutomatica .
+2. Declaramos variáveis de diferentes tipos.
+3. Realizamos operações matemáticas envolvendo essas variáveis.
+4. Exibimos os resultados na tela, incluindo o valor do tipo char .
+ */
