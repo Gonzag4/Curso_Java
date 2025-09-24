@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/CalculadoraSimples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/OperadoresDeAtribuição.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/NivelDeSatisfacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/VerificadorDeMes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicios/VerificarSeUmNumeroEPar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,7 +50,9 @@
     "Application.CalculadoraSimples.executor": "Run",
     "Application.CauculadoraAreaRetangulo.executor": "Run",
     "Application.ControleDeEstoqueEmUmaPadaria.executor": "Run",
+    "Application.NivelDeSatisfacao.executor": "Run",
     "Application.OperadoresDeAtribuição.executor": "Run",
+    "Application.VerificarSeUmNumeroEPar.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
