@@ -1,4 +1,4 @@
-package exercicioDeHerança;
+/*package exercicioDeHerança;
 
 public class Veiculo {
     void acelerar(){
@@ -19,3 +19,4 @@ public class Veiculo {
         }
     }
 }
+*/

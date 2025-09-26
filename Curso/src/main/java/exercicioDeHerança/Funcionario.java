@@ -1,4 +1,4 @@
-package exercicioDeHerança;
+/*package exercicioDeHerança;
 
 public class Funcionario {
     private String nome;
@@ -50,3 +50,4 @@ public class TesteHeranca{
 
     }
 }
+*/
