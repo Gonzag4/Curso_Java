@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioArray/ExercicioEscolar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioArray/SomaDeNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/Veiculo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/FinalVariables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/Funcionario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +60,7 @@
     "Application.SomaDeNumeros.executor": "Run",
     "Application.SomaDeNúmerosInteirosPositivos.executor": "Run",
     "Application.SomaDeValoresAcumulados.executor": "Run",
+    "Application.TesteHeranca.executor": "Run",
     "Application.TesteSalaDeAula.executor": "Run",
     "Application.VerificarSeUmNumeroEPar.executor": "Run",
     "Application.aplicacao.executor": "Run",

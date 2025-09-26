@@ -22,7 +22,7 @@ public class Funcionario {
         salario = novoSalario;
     }
 
-    public void getSalario(){
+    public double getSalario(){
         return salario;
     }
 
@@ -43,7 +43,7 @@ public class TesteHeranca{
         assistente.setNome("João");
         assistente.setSalario(3000d);
 
-        
+
         System.out.println("Nome: " + assistente.getNome());
         System.out.println("Salário anual: R$" +
                 assistente.ganhoAnual());
