@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/TesteFuncionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioInterface/PedidoRestaurante.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioDeHerança/TesteFuncionario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
