@@ -15,5 +15,17 @@ public class Main {
         System.out.println("Subitração " + subtracao.calcular(num1, num2));
         System.out.println("Multiplicação " + multiplicacao.calcular(num1, num2));
         System.out.println("Divisão " + divisao.calcular(num1, num2));
+
+        // GerenciadorVeiculos:
+
+        Veiculo veiculo1 = new Onibus("ABC123", 2020, 40);
+        Veiculo veiculo2 = new Caminhao("XYZ789", 2019, 6);
+
+        System.out.println("Detalhes do veículo 1 (Ônibus):");
+        veiculo1.exibirInformacoes();
+        System.out.println("---------------------------------");
+
+        System.out.println("Detalhes do veículo 1 (Caminhão):");
+        veiculo2.exibirInformacoes();
     }
 }
