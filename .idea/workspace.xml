@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,39 +41,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AprovacaoNotasPresensas.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculadoraSimples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CauculadoraAreaRetangulo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContagemDeDoces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ContonueBraker.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ControleDeEstoqueEmUmaPadaria.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DiasNoMes.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExercicioEscolar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FinalVariables.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainCarro.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NivelDeSatisfacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OperadoresDeAtribuição.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaDeNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaDeNúmerosInteirosPositivos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaDeValoresAcumulados.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteHeranca.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TesteSalaDeAula.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VerificarSeUmNumeroEPar.executor&quot;: &quot;Run&quot;,
-    &quot;Application.aplicacao.executor&quot;: &quot;Run&quot;,
-    &quot;Application.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gonza/Documents/Projetos intelij/curso_java/Vendas&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.importing&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AprovacaoNotasPresensas.executor": "Run",
+    "Application.CalculadoraSimples.executor": "Run",
+    "Application.CauculadoraAreaRetangulo.executor": "Run",
+    "Application.ContagemDeDoces.executor": "Run",
+    "Application.ContonueBraker.executor": "Run",
+    "Application.ControleDeEstoqueEmUmaPadaria.executor": "Run",
+    "Application.DiasNoMes.executor": "Run",
+    "Application.ExercicioEscolar.executor": "Run",
+    "Application.FinalVariables.executor": "Run",
+    "Application.MainCarro.executor": "Run",
+    "Application.NivelDeSatisfacao.executor": "Run",
+    "Application.OperadoresDeAtribuição.executor": "Run",
+    "Application.SomaDeNumeros.executor": "Run",
+    "Application.SomaDeNúmerosInteirosPositivos.executor": "Run",
+    "Application.SomaDeValoresAcumulados.executor": "Run",
+    "Application.TesteHeranca.executor": "Run",
+    "Application.TesteSalaDeAula.executor": "Run",
+    "Application.VerificarSeUmNumeroEPar.executor": "Run",
+    "Application.aplicacao.executor": "Run",
+    "Application.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/gonza/OneDrive/Documentos/atividades de IP2/Lista3_Algoritimos",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
