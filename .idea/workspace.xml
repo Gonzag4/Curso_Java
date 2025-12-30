@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="" />
+    <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/FiguraGeometrica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/Loja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/LojaComercial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/Retangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioPolimorfismo/Divisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioPolimorfismo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioPolimorfismo/Multiplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioPolimorfismo/Operacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioPolimorfismo/Soma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioPolimorfismo/Subitracao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -64,6 +78,7 @@
     "Application.aplicacao.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
