@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Cesto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Polvo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaGenerica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaDeBrinquedos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaDeBrinquedos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +52,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AprovacaoNotasPresensas.executor": "Run",
+    "Application.CaixaDeBrinquedos.executor": "Run",
+    "Application.CaixaGenerica.executor": "Run",
     "Application.CalculadoraSimples.executor": "Run",
     "Application.CauculadoraAreaRetangulo.executor": "Run",
+    "Application.Cesto.executor": "Run",
     "Application.ContagemDeDoces.executor": "Run",
     "Application.ContonueBraker.executor": "Run",
     "Application.ControleDeEstoqueEmUmaPadaria.executor": "Run",
@@ -78,6 +87,40 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Cesto">
+    <configuration name="CaixaGenerica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.generics.CaixaGenerica" />
+      <module name="Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cesto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercicioGenerics.Cesto" />
+      <module name="Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExercicioGenerics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Cesto" />
+        <item itemvalue="Application.CaixaGenerica" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
