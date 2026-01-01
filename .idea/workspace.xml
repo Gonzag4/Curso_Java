@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Cesto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Peixe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Polvo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaGenerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Caixa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaDeBrinquedos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/com/generics/CaixaDeBrinquedos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/com/generics/CaixaDeBrinquedos.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
