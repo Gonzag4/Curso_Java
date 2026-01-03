@@ -1,4 +1,4 @@
-package ExercicioClassesAbstratas;
+package exercicioClassesAbstratas;
 
 public abstract class FiguraGeometrica {
     public abstract double calcularArea();

@@ -1,4 +1,4 @@
-package ExercicioClassesAbstratas;
+package exercicioClassesAbstratas;
 
 public class Main {
 

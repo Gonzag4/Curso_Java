@@ -1,4 +1,4 @@
-package ExercicioGenerics;
+package exercicioGenerics;
 
 public class Cesto<T> {
     private T conteudo;

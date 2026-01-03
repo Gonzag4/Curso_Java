@@ -1,4 +1,4 @@
-package ExercicioGenerics;
+package exercicioGenerics;
 
 public class Peixe {
     private String nome;

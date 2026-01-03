@@ -1,4 +1,4 @@
-package ExercicioInterface;
+package exercicioInterface;
 
 /*public interface PedidoRestaurante {
     void adicionarItem(String item, double preco);

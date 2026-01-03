@@ -1,4 +1,4 @@
-package ExercicioClassesAbstratas;
+package exercicioClassesAbstratas;
 
 public class LojaComercial extends Loja{
     public LojaComercial (String cnpj, String razaoSocial){

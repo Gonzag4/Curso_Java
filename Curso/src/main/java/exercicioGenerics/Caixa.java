@@ -1,4 +1,4 @@
-package ExercicioGenerics;
+package exercicioGenerics;
 
 public class Caixa <T>{
     private T[] elementos;
