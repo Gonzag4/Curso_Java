@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/programacaoFuncional/CalculadoraTradicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioLambda/FiltroNumerosImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioLambda/ListaManipulacaoLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/programacaoFuncional/CalculadoraComInterfaceFuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioProgramacaoFuncional/CalculadoraPersonalizada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +51,8 @@
     "Application.ArrayExercicio.executor": "Run",
     "Application.CaixaDeBrinquedos.executor": "Run",
     "Application.CaixaGenerica.executor": "Run",
+    "Application.CalculadoraComInterfaceFuncional.executor": "Run",
+    "Application.CalculadoraPersonalizada.executor": "Run",
     "Application.CalculadoraSimples.executor": "Run",
     "Application.CalculadoraTradicional.executor": "Run",
     "Application.CauculadoraAreaRetangulo.executor": "Run",
@@ -97,7 +98,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraTradicional">
+  <component name="RunManager" selected="Application.CalculadoraPersonalizada">
     <configuration name="ArrayExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicioException.ArrayExercicio" />
       <module name="Curso" />
@@ -111,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculadoraTradicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programacaoFuncional.CalculadoraTradicional" />
+    <configuration name="CalculadoraComInterfaceFuncional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programacaoFuncional.CalculadoraComInterfaceFuncional" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
@@ -124,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploNullPointerExceptionInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicioException.ExemploNullPointerExceptionInteger" />
+    <configuration name="CalculadoraPersonalizada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicioProgramacaoFuncional.CalculadoraPersonalizada" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicioException.*" />
+          <option name="PATTERN" value="exercicioProgramacaoFuncional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LancandoExceptionIntencionalmente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exception.LancandoExceptionIntencionalmente" />
+    <configuration name="CalculadoraTradicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.programacaoFuncional.CalculadoraTradicional" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exception.*" />
+          <option name="PATTERN" value="com.programacaoFuncional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalculadoraPersonalizada" />
+        <item itemvalue="Application.CalculadoraComInterfaceFuncional" />
         <item itemvalue="Application.CalculadoraTradicional" />
         <item itemvalue="Application.ListaManipulacaoLambda" />
         <item itemvalue="Application.ArrayExercicio" />
-        <item itemvalue="Application.ExemploNullPointerExceptionInteger" />
-        <item itemvalue="Application.LancandoExceptionIntencionalmente" />
       </list>
     </recent_temporary>
   </component>
