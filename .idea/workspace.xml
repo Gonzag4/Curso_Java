@@ -5,32 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/exception/ExceptionDivisaoPorZeroLancandoException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/exception/ExemploArrayException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/exception/ExemploObjetosNulos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/exception/LancandoExceptionIntencionalmente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioException/ArrayExercicio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioException/ExemploNullPointerExceptionInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/expressoesLambda/LambdaComCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/FiguraGeometrica.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioClassesAbstratas/FiguraGeometrica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/Loja.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioClassesAbstratas/Loja.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/LojaComercial.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioClassesAbstratas/LojaComercial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioClassesAbstratas/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioClassesAbstratas/Retangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioClassesAbstratas/Retangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Caixa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioGenerics/Caixa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Cesto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioGenerics/Cesto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Peixe.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioGenerics/Peixe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioGenerics/Polvo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioGenerics/Polvo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/ExercicioInterface/PedidoRestaurante.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioInterface/PedidoRestaurante.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/FiguraGeometrica.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/FiguraGeometrica.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/Loja.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/Loja.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/LojaComercial.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/LojaComercial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/Retangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioClassesAbstratas/Retangulo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Caixa.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Caixa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Cesto.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Cesto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Peixe.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Peixe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Polvo.class" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/target/classes/ExercicioGenerics/Polvo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
