@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/programacaoFuncional/CalculadoraComInterfaceFuncional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioProgramacaoFuncional/CalculadoraPersonalizada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Input_Output/ConversaoDeInteiroParaCaracteres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Input_Output/exemploIO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +61,7 @@
     "Application.ContonueBraker.executor": "Run",
     "Application.ControleDeEstoqueEmUmaPadaria.executor": "Run",
     "Application.ControleEstoque.executor": "Run",
+    "Application.ConversaoDeInteiroParaCaracteres.executor": "Run",
     "Application.DiasNoMes.executor": "Run",
     "Application.ExceptionDivisaoPorZero.executor": "Run",
     "Application.ExemploList.executor": "Run",
@@ -85,6 +86,7 @@
     "Application.TesteSalaDeAula.executor": "Run",
     "Application.VerificarSeUmNumeroEPar.executor": "Run",
     "Application.aplicacao.executor": "Run",
+    "Application.exemploIO.executor": "Run",
     "Application.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -98,20 +100,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraPersonalizada">
-    <configuration name="ArrayExercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicioException.ArrayExercicio" />
-      <module name="Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicioException.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.exemploIO">
     <configuration name="CalculadoraComInterfaceFuncional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.programacaoFuncional.CalculadoraComInterfaceFuncional" />
       <module name="Curso" />
@@ -151,12 +140,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListaManipulacaoLambda" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicioLambda.ListaManipulacaoLambda" />
+    <configuration name="ConversaoDeInteiroParaCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Input_Output.ConversaoDeInteiroParaCaracteres" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicioLambda.*" />
+          <option name="PATTERN" value="com.Input_Output.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exemploIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Input_Output.exemploIO" />
+      <module name="Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Input_Output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exemploIO" />
+        <item itemvalue="Application.ConversaoDeInteiroParaCaracteres" />
         <item itemvalue="Application.CalculadoraPersonalizada" />
         <item itemvalue="Application.CalculadoraComInterfaceFuncional" />
         <item itemvalue="Application.CalculadoraTradicional" />
-        <item itemvalue="Application.ListaManipulacaoLambda" />
-        <item itemvalue="Application.ArrayExercicio" />
       </list>
     </recent_temporary>
   </component>
