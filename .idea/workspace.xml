@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Input_Output/ConversaoDeInteiroParaCaracteres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Input_Output/exemploIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Input_Output/ExemploNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
     "Application.ListaManipulacaoLambda.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MainCarro.executor": "Run",
+    "Application.ManipulacaoArquivos.executor": "Run",
     "Application.NivelDeSatisfacao.executor": "Run",
     "Application.OperadoresDeAtribuição.executor": "Run",
     "Application.SetExercise.executor": "Run",
@@ -100,7 +101,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.exemploIO">
+  <component name="RunManager" selected="Application.ManipulacaoArquivos">
     <configuration name="CalculadoraComInterfaceFuncional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.programacaoFuncional.CalculadoraComInterfaceFuncional" />
       <module name="Curso" />
@@ -127,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculadoraTradicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.programacaoFuncional.CalculadoraTradicional" />
+    <configuration name="ConversaoDeInteiroParaCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Input_Output.ConversaoDeInteiroParaCaracteres" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.programacaoFuncional.*" />
+          <option name="PATTERN" value="com.Input_Output.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConversaoDeInteiroParaCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Input_Output.ConversaoDeInteiroParaCaracteres" />
+    <configuration name="ManipulacaoArquivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.exercicioIO_NIO.ManipulacaoArquivos" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Input_Output.*" />
+          <option name="PATTERN" value="com.exercicioIO_NIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManipulacaoArquivos" />
         <item itemvalue="Application.exemploIO" />
         <item itemvalue="Application.ConversaoDeInteiroParaCaracteres" />
         <item itemvalue="Application.CalculadoraPersonalizada" />
         <item itemvalue="Application.CalculadoraComInterfaceFuncional" />
-        <item itemvalue="Application.CalculadoraTradicional" />
       </list>
     </recent_temporary>
   </component>
