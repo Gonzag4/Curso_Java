@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Serialization/Contato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Serialization/ExemploSerializacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/JavaFXMinhaApliacacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Curso_Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Curso_Java.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioIO_NIO/ManipulacaoArquivos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivosNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioIO_NIO/ManipulacaoArquivosNIO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +72,7 @@
     "Application.ExemploSet.executor": "Run",
     "Application.ExercicioEscolar.executor": "Run",
     "Application.FinalVariables.executor": "Run",
+    "Application.JavaFXMinhaApliacacao.executor": "Run",
     "Application.LancandoExceptionIntencionalmente.executor": "Run",
     "Application.ListaFilmes.executor": "Run",
     "Application.ListaManipulacaoLambda.executor": "Run",
@@ -98,11 +97,11 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gonza/OneDrive/Documentos/atividades de IP2/Lista3_Algoritimos",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+    "last_opened_file_path": "C:/Program Files/Java/javafx/javafx-sdk-22.0.1/lib",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.JavaFX"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -110,13 +109,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploSerializacao">
-    <configuration name="ConversaoDeInteiroParaCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Input_Output.ConversaoDeInteiroParaCaracteres" />
+  <component name="RunManager" selected="Application.JavaFXMinhaApliacacao">
+    <configuration name="ExemploSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Serialization.ExemploSerializacao" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Input_Output.*" />
+          <option name="PATTERN" value="com.Serialization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +123,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Serialization.ExemploSerializacao" />
+    <configuration name="JavaFXMinhaApliacacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX.JavaFXMinhaApliacacao" />
       <module name="Curso" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Serialization.*" />
+          <option name="PATTERN" value="JavaFX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,13 +176,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.exemploIO" />
+      <item itemvalue="Application.ExemploSerializacao" />
+      <item itemvalue="Application.JavaFXMinhaApliacacao" />
+      <item itemvalue="Application.ManipulacaoArquivos" />
+      <item itemvalue="Application.ManipulacaoArquivosNIO" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaFXMinhaApliacacao" />
         <item itemvalue="Application.ExemploSerializacao" />
         <item itemvalue="Application.ManipulacaoArquivosNIO" />
         <item itemvalue="Application.ManipulacaoArquivos" />
         <item itemvalue="Application.exemploIO" />
-        <item itemvalue="Application.ConversaoDeInteiroParaCaracteres" />
       </list>
     </recent_temporary>
   </component>
