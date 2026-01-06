@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivosNIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Serialization/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/com/Serialization/ExemploSerializacao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivos.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioIO_NIO/ManipulacaoArquivos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso/src/main/java/com/exercicioIO_NIO/ManipulacaoArquivosNIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso/src/main/java/exercicioIO_NIO/ManipulacaoArquivosNIO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,7 @@
     "Application.ExemploMap.executor": "Run",
     "Application.ExemploNullPointerExceptionInteger.executor": "Run",
     "Application.ExemploObjetosNulos.executor": "Run",
+    "Application.ExemploSerializacao.executor": "Run",
     "Application.ExemploSet.executor": "Run",
     "Application.ExercicioEscolar.executor": "Run",
     "Application.FinalVariables.executor": "Run",
@@ -102,20 +105,12 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ManipulacaoArquivosNIO">
-    <configuration name="CalculadoraPersonalizada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicioProgramacaoFuncional.CalculadoraPersonalizada" />
-      <module name="Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicioProgramacaoFuncional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExemploSerializacao">
     <configuration name="ConversaoDeInteiroParaCaracteres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Input_Output.ConversaoDeInteiroParaCaracteres" />
       <module name="Curso" />
@@ -129,12 +124,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManipulacaoArquivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercicioIO_NIO.ManipulacaoArquivos" />
+    <configuration name="ExemploSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Serialization.ExemploSerializacao" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercicioIO_NIO.*" />
+          <option name="PATTERN" value="com.Serialization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManipulacaoArquivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicioIO_NIO.ManipulacaoArquivos" />
+      <module name="Curso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicioIO_NIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +151,11 @@
       </method>
     </configuration>
     <configuration name="ManipulacaoArquivosNIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.exercicioIO_NIO.ManipulacaoArquivosNIO" />
+      <option name="MAIN_CLASS_NAME" value="exercicioIO_NIO.ManipulacaoArquivosNIO" />
       <module name="Curso" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.exercicioIO_NIO.*" />
+          <option name="PATTERN" value="exercicioIO_NIO.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploSerializacao" />
         <item itemvalue="Application.ManipulacaoArquivosNIO" />
         <item itemvalue="Application.ManipulacaoArquivos" />
         <item itemvalue="Application.exemploIO" />
         <item itemvalue="Application.ConversaoDeInteiroParaCaracteres" />
-        <item itemvalue="Application.CalculadoraPersonalizada" />
       </list>
     </recent_temporary>
   </component>

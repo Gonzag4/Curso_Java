@@ -1,4 +1,4 @@
-package com.exercicioIO_NIO;
+package exercicioIO_NIO;
 
 import java.io.FileWriter;
 import java.io.FileReader;
