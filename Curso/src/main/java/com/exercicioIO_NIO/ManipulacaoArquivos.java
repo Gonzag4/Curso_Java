@@ -39,7 +39,7 @@ public class ManipulacaoArquivos {
 
             FileReader reader = new FileReader(nomeArquivo);
             int caractere;
-            while ((caractere = reader.read()) != -1 ){
+            while ((caractere = reader.read()) != -1 ){ //-1 significa o fim do arquivo
                 conteudo.append((char)caractere);
             }
             reader.close();
