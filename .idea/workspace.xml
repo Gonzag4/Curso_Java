@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/ExemploControles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/ExemploListas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/ExemplosGridPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/ExemplosLayouts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +67,14 @@
     "Application.ExceptionDivisaoPorZero.executor": "Run",
     "Application.ExemploControles.executor": "Run",
     "Application.ExemploList.executor": "Run",
+    "Application.ExemploListas.executor": "Run",
     "Application.ExemploMap.executor": "Run",
     "Application.ExemploNullPointerExceptionInteger.executor": "Run",
     "Application.ExemploObjetosNulos.executor": "Run",
     "Application.ExemploSerializacao.executor": "Run",
     "Application.ExemploSet.executor": "Run",
+    "Application.ExemplosGridPane.executor": "Run",
+    "Application.ExemplosLayouts.executor": "Run",
     "Application.ExercicioEscolar.executor": "Run",
     "Application.FinalVariables.executor": "Run",
     "Application.JavaFXMinhaApliacacao.executor": "Run",
@@ -109,7 +114,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploControles">
+  <component name="RunManager" selected="Application.ExemploListas">
     <configuration name="ExemploControles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaFX.ExemploControles" />
       <module name="Curso" />
@@ -124,12 +129,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploSerializacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Serialization.ExemploSerializacao" />
+    <configuration name="ExemploListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX.ExemploListas" />
       <module name="Curso" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Serialization.*" />
+          <option name="PATTERN" value="JavaFX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemplosGridPane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX.ExemplosGridPane" />
+      <module name="Curso" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaFX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="JavaFX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemplosLayouts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX.ExemplosLayouts" />
+      <module name="Curso" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaFX.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,46 +189,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ManipulacaoArquivos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicioIO_NIO.ManipulacaoArquivos" />
-      <module name="Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicioIO_NIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ManipulacaoArquivosNIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicioIO_NIO.ManipulacaoArquivosNIO" />
-      <module name="Curso" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="exercicioIO_NIO.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.ExemploListas" />
+      <item itemvalue="Application.ExemplosGridPane" />
+      <item itemvalue="Application.ExemplosLayouts" />
       <item itemvalue="Application.ExemploControles" />
-      <item itemvalue="Application.ExemploSerializacao" />
       <item itemvalue="Application.JavaFXMinhaApliacacao" />
-      <item itemvalue="Application.ManipulacaoArquivos" />
-      <item itemvalue="Application.ManipulacaoArquivosNIO" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploListas" />
+        <item itemvalue="Application.ExemplosGridPane" />
+        <item itemvalue="Application.ExemplosLayouts" />
         <item itemvalue="Application.ExemploControles" />
         <item itemvalue="Application.JavaFXMinhaApliacacao" />
-        <item itemvalue="Application.ExemploSerializacao" />
-        <item itemvalue="Application.ManipulacaoArquivosNIO" />
-        <item itemvalue="Application.ManipulacaoArquivos" />
       </list>
     </recent_temporary>
   </component>
