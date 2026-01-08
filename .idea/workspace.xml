@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5a46177-3e2c-4338-96bc-7218033dbe8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/ExemploStreamings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/ExemploVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Curso/src/main/java/JavaFX/ExemplosFileChooser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,6 +72,7 @@
     "Application.ExemploObjetosNulos.executor": "Run",
     "Application.ExemploSerializacao.executor": "Run",
     "Application.ExemploSet.executor": "Run",
+    "Application.ExemplosFileChooser.executor": "Run",
     "Application.ExemplosGridPane.executor": "Run",
     "Application.ExemplosLayouts.executor": "Run",
     "Application.ExercicioEscolar.executor": "Run",
@@ -114,21 +114,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExemploImagem">
-    <configuration name="ExemploControles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaFX.ExemploControles" />
-      <module name="Curso" />
-      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="JavaFX.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ExemplosFileChooser">
     <configuration name="ExemploImagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaFX.ExemploImagem" />
       <module name="Curso" />
@@ -145,6 +131,20 @@
     </configuration>
     <configuration name="ExemploListas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="JavaFX.ExemploListas" />
+      <module name="Curso" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JavaFX.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExemplosFileChooser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaFX.ExemplosFileChooser" />
       <module name="Curso" />
       <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
@@ -190,19 +190,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ExemplosFileChooser" />
       <item itemvalue="Application.ExemploImagem" />
       <item itemvalue="Application.ExemploListas" />
       <item itemvalue="Application.ExemplosGridPane" />
       <item itemvalue="Application.ExemplosLayouts" />
-      <item itemvalue="Application.ExemploControles" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemplosFileChooser" />
         <item itemvalue="Application.ExemploImagem" />
         <item itemvalue="Application.ExemploListas" />
         <item itemvalue="Application.ExemplosGridPane" />
         <item itemvalue="Application.ExemplosLayouts" />
-        <item itemvalue="Application.ExemploControles" />
       </list>
     </recent_temporary>
   </component>
